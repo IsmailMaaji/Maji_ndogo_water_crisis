@@ -7,17 +7,20 @@ Reviewed 60,000 records collected by surveyors and engineers to extract meaningf
 Identified and categorized different water sources across the country.
 Examined visiting patterns of surveyors to understand coverage and frequency.
 Documented pollution issues affecting water sources, highlighting areas of concern.
+
 Project 2: Data Cleanup and Analysis
 
 Conducted extensive data cleaning to ensure accuracy and consistency.
 Broke down the scope of the water crisis, defining key areas of focus.
 Developed hypotheses to guide further investigation and analysis.
 Analyzed water collection queues to understand the burden on citizens and identify inefficiencies.
+
 Project 3: Database Structuring and Relationship Analysis
 
 Designed an Entity-Relationship Diagram (ERD) to map out the relationships between various data tables.
 Performed table joins to identify and eliminate duplicate records.
 Linked tables to uncover discrepancies, including frequent visits to certain locations and reports of potential fraud.
+
 Project 4: Fraud Detection and Solution Development
 
 Identified and eliminated fraudulent cases from the dataset.
